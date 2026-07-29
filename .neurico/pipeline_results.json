@@ -1,0 +1,14 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {},
+      "log_file": "/workspaces/adversarial_prompt_injection_v_20260729_000827_3a2a967e/logs/resource_finder_gemini.log",
+      "transcript_file": "/workspaces/adversarial_prompt_injection_v_20260729_000827_3a2a967e/logs/resource_finder_gemini_transcript.jsonl",
+      "elapsed_time": 2.5756194591522217
+    }
+  },
+  "work_dir": "/workspaces/adversarial_prompt_injection_v_20260729_000827_3a2a967e"
+}
